@@ -79,6 +79,5 @@ The application uses Groq's deepseek-r1-distill-llama-70b model through Langchai
 - Sentiment analysis from news and social media
 - Export reports to PDF/Excel
 - User authentication and saved reports 
-=======
 
 
