@@ -1,4 +1,4 @@
-
+# Financial-Report-Generator
 # AI Financial Forecasting and Analysis Report
 
 A Streamlit application that generates comprehensive financial analysis reports using Groq's deepseek-r1-distill-llama-70b model and Langchain.
@@ -80,5 +80,5 @@ The application uses Groq's deepseek-r1-distill-llama-70b model through Langchai
 - Export reports to PDF/Excel
 - User authentication and saved reports 
 =======
-# Financial-Report-Generator
+
 
